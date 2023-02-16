@@ -8,3 +8,6 @@ this is a readme file
 ## Heading 2
 
 ### Heading 3
+
+# Author
+James
