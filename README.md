@@ -10,4 +10,4 @@ this is a readme file
 ### Heading 3
 
 # Author
-James
+James Kabbes
