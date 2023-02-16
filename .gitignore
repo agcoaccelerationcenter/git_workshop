@@ -1,1 +1,5 @@
 ignore_this_file.txt
+Data/
+!Data/ignore.txt
+
+*.txt
